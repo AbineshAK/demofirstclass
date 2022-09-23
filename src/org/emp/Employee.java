@@ -7,10 +7,13 @@ public class Employee {
 private void  employeeId() {
 	System.out.println("001");
 	System.out.println("002");
+	System.out.println("003");
+	
 }
 private void employeeName() {	
 	System.out.println("mani");
 	System.out.println("siva");
+	System.out.println("sivaram");
 }
 private void employeeDob() {
 	System.out.println("01/01/2000");
